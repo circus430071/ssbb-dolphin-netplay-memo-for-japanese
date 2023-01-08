@@ -20,3 +20,8 @@ https://discord.com/invite/3DmJN2m
 
 `#resources-and-guides`というチャンネルに導入ガイドがあるのでそれを開きます。
 > (執筆時点では)`Brawl Netplay vA.B (20YY)`という項目の下にガイドへのリンクがあります。
+
+ガイド内に`Brawl Netplay vA.B (20YY)`というファイルへのリンクがあるのでそこからダウンロードして導入してください。
+
+
+## コントローラーの設定
