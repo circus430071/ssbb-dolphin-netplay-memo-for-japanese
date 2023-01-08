@@ -24,7 +24,11 @@ https://discord.com/invite/3DmJN2m
 `#resources-and-guides`というチャンネルに導入ガイドがあるのでそれを開きます。
 > (執筆時点では)`Brawl Netplay vA.B (20YY)`という項目の下にガイドへのリンクがあります。
 
-ガイド内に`Brawl Netplay vA.B (20YY)`というファイルへのリンクがあるのでそこからダウンロードして導入してください。
+ガイド内に`Brawl Netplay vA.B (20YY)`というファイルへのリンクがあるのでそこからダウンロードしてガイドに沿って導入してください。
+> 認定のiso設定,BGMOff等しっかり設定しないと同期ズレしたり起動しなかったりします。
+
+読めなければ翻訳しましょう。
+https://www.deepl.com/translator
 
 
 ## コントローラーの設定
