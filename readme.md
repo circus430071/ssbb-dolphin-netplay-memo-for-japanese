@@ -32,3 +32,4 @@ https://www.deepl.com/translator
 
 
 ## コントローラーの設定
+`#resources-and-guides`内にガイドがあります。
