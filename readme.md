@@ -15,7 +15,9 @@
 などが挙げられます。
 
 ## ISOの準備
-dolphin内のソフト一覧画面上でssbbを右クリックして `Properties` -> `Info` -> `MD5Checksum`の横の`Compute`を押せばISOのmd5ハッシュを確認できます。
+海外版(RSBE 1.01)のISOが必要です。
+
+> dolphin内のソフト一覧画面上でssbbを右クリックして `Properties` -> `Info` -> `MD5Checksum`の横の`Compute`を押せばISOのmd5ハッシュを確認できます。
 
 使える(同期ズレ等が起こらない)ISOは以下のmd5ハッシュのうちのどれかと合致するものです。
 - `d18726e6dfdc8bdbdad540b561051087`
