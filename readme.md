@@ -75,3 +75,7 @@ https://www.youtube.com/watch?v=m8ON63Hn6jg
 
 ### リアルタイム巻き戻し機能やランダムマッチ機能の実装modの開発鯖
 https://discord.com/invite/dzYRN32k4D
+
+#### mod等の関連コミュニティ
+https://discord.gg/GbxJhbv
+https://discord.gg/s7c8763
