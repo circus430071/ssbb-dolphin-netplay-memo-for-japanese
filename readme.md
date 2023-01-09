@@ -66,7 +66,7 @@ https://www.ssbwiki.com/User:P.i./Lag_Guide
 ### テクスチャハック等
 http://forums.kc-mm.com/Gallery/BrawlView.php  
 https://gamebanana.com/games/5678
-> ネットプレイでは基本同一のファイルを使わないと同期ズレするようなので注意(要検証)
+> モデルをいじったハックは同一のものを使用しないと同期ズレします。
 
 ### .wbfsを.isoに変換する方法
 ツール
