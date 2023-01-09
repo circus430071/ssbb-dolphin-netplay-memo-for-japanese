@@ -77,5 +77,5 @@ https://www.youtube.com/watch?v=m8ON63Hn6jg
 https://discord.com/invite/dzYRN32k4D
 
 #### mod等の関連コミュニティ
-https://discord.gg/GbxJhbv
+https://discord.gg/GbxJhbv  
 https://discord.gg/s7c8763
