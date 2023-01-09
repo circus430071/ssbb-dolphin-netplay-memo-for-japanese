@@ -58,10 +58,17 @@ https://www.deepl.com/translator
 グラフィックエンジンが違うと同期ズレを起こす可能性があるので統一したほうが良い。(openglがおすすめされているので特に理由がなければそちらを使用しましょう。)
 
 ## 関連リソース
-ラグについてのガイド
+### ラグについてのガイド
 https://www.ssbwiki.com/User:P.i./Lag_Guide
 
-テクスチャハック等
+### テクスチャハック等
 http://forums.kc-mm.com/Gallery/BrawlView.php  
 https://gamebanana.com/games/5678
 > ネットプレイでは基本同一のファイルを使わないと同期ズレするようなので注意(要検証)
+
+### .wbfsを.isoに変換する方法
+ツール
+http://www.wiibackupmanager.co.uk/WiiBackupManager_Build78.html
+
+解説
+https://www.youtube.com/watch?v=m8ON63Hn6jg 
