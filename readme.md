@@ -62,6 +62,6 @@ https://www.deepl.com/translator
 https://www.ssbwiki.com/User:P.i./Lag_Guide
 
 テクスチャハック等
-http://forums.kc-mm.com/Gallery/BrawlView.php
+http://forums.kc-mm.com/Gallery/BrawlView.php  
 https://gamebanana.com/games/5678
 > ネットプレイでは基本同一のファイルを使わないと同期ズレするようなので注意(要検証)
